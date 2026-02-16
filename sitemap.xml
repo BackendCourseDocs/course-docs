@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://backendcoursedocs.github.io/course-docs/</loc>
+         <lastmod>2026-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://backendcoursedocs.github.io/course-docs/DNS/</loc>
+         <lastmod>2026-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://backendcoursedocs.github.io/course-docs/HTTP%20Methods%20%26%20Status%20Code/</loc>
+         <lastmod>2026-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://backendcoursedocs.github.io/course-docs/client-vs-server/</loc>
+         <lastmod>2026-02-16</lastmod>
+    </url>
+    <url>
+         <loc>https://backendcoursedocs.github.io/course-docs/http-https/</loc>
+         <lastmod>2026-02-16</lastmod>
+    </url>
+</urlset>
