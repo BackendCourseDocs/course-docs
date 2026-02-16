@@ -32,6 +32,6 @@ plugins:
 nav:
   - Home: index.md
   - DNS: DNS.md
-  - HTTP Methods و Status Code در FastAPI: http-method.md
+  - HTTP Methods و Status Code در FastAPI: http-methods.md
   - HTTP و HTTPS: http-https.md
   - Client vs Server: client-vs-server.md
